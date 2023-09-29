@@ -35,7 +35,7 @@ from langchain.prompts.chat import (
 from langchain.schema import AIMessage, HumanMessage, SystemMessage
 
 ### Apy Key - GPT 
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "INSERT YOUR KEY"
 
 
 ############### Header #################
