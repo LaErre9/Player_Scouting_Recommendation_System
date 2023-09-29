@@ -74,11 +74,11 @@ selected_value = st_searchbox(
 <img src="https://github.com/LaErre9/Player_Scouting_Recommendation_System/blob/main/images/SearchEngine.gif" alt="Arch General" width="500" >
 
 #### **Player Similarity**:
-Discover players with similar playing styles, attributes, and statistics to your selected player. 
+Discover players with similar playing styles, attributes, and statistics to your selected player. <br>
 <img src="https://github.com/LaErre9/Player_Scouting_Recommendation_System/blob/main/images/Components.gif" alt="Arch General" width="500" >
 
 #### **AI-Generated Reports**
-Receive detailed and personalized player reports powered by state-of-the-art natural language generation with a fix-prompt-form.
+Receive detailed and personalized player reports powered by state-of-the-art natural language generation with a fix-prompt-form. <br>
 <img src="https://github.com/LaErre9/Player_Scouting_Recommendation_System/blob/main/images/ScouterAI.gif" alt="Arch General" width="500" >
 
 ## 📄 Doc and complete architecture
