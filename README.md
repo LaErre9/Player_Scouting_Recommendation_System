@@ -3,7 +3,8 @@
 
 The **Player Scouting Recommendation System** is a tool designed and engineered for football scouts, coaches and analysts. This system uses advanced information retrieval and artificial intelligence techniques to revolutionize player scouting. By entering a specific player, the system quickly identifies the ten most similar players, offering tailored AI-generated reports to recommend the best player for your team based on team characteristics.
 
-The [CSV_Version of Player Scouting Recommendation System](https://fbref.com/en/) is available! [DEMO]
+To **try** the python application is **available** [CSV_Version of Player Scouting Recommendation System](https://fbref.com/en/)! [DEMO]. <br>
+*This is the version without Solr, to try the Solr version follow the readme.txt file locally.*
 
 ## 📊 Data Source 
 
