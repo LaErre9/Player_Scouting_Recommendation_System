@@ -85,6 +85,7 @@ Receive detailed and personalized player reports powered by state-of-the-art nat
 The complete [Documentation](https://github.com/LaErre9/Player_Scouting_Recommendation_System/blob/main/Elaborato_IRS_Antonio_Romano_M63001315.pdf). In this doc there are all the details of the project. <br><br>
 <img src="https://github.com/LaErre9/Player_Scouting_Recommendation_System/blob/main/images/CompleteArch.png" alt="Arch General" width="600" >
 
+⚠️ **the doc may contain errors! Do not copy but use it as support.**
 
 ## 🚧 Limits 
 
