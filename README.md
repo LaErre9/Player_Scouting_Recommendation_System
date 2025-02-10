@@ -3,14 +3,27 @@
 
 The **Player Scouting Recommendation System** is a tool designed and engineered for football scouts, coaches and analysts. This system uses advanced information retrieval and artificial intelligence techniques to revolutionize player scouting. By entering a specific player, the system quickly identifies the ten most similar players, offering tailored AI-generated reports to recommend the best player for your team based on team characteristics.
 
+### 🔍 Scientific References
+
+This project leverages cutting-edge research in Generative AI, recommender systems, and sports analytics. If you use this project for your research, please cite [this paper](https://ieeexplore.ieee.org/abstract/document/10825692/metrics#metrics) 🙏.
+```bash
+@INPROCEEDINGS{10825692,
+      author={Rinaldi, Antonio Maria and Romano, Antonio and Russo, Cristiano and Tommasino, Cristian},
+      booktitle={2024 IEEE International Conference on Big Data (BigData)}, 
+      title={FPSRec: Football Players Scouting Recommendation System based on Generative AI}, 
+      year={2024},
+      volume={},
+      number={},
+      pages={7141-7150},
+      keywords={Generative AI;Machine learning;Big Data;Data models;Surges;Recommender systems;Sports;Recruitment;Recommendation Systems;Player Scouting;Generative AI;Football Analytics;Sports Analytics;Data-driven Scouting},
+      doi={10.1109/BigData62323.2024.10825692}}
+```
+
+
 
 ## Demo
 To **try** the python application is **available** [CSV_Version of Player Scouting Recommendation System](https://playerscouting.streamlit.app/)! [DEMO]. <br>
 *This is the version without Solr, to try the Solr version follow the readme.txt file locally.*
-
-## 📊 Data Source 
-
-The project sources its data from [FBRef](https://fbref.com/en/), a leading football statistics website. With a database comprising over 200,000 players and teams, FBRef provides rich insights crucial for player performance analysis.
 
 ## 💻 Technologies Used 
 
