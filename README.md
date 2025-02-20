@@ -1,4 +1,6 @@
 # ⚽🔍 Player Scouting Recommendation System
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
 > AI-Powered Player Scouting: Scout, Recommend, Elevate Your Team's Game - 👀 This is a Beta version
 
 The **Player Scouting Recommendation System** is a tool designed and engineered for football scouts, coaches and analysts. This system uses advanced information retrieval and artificial intelligence techniques to revolutionize player scouting. By entering a specific player, the system quickly identifies the ten most similar players, offering tailored AI-generated reports to recommend the best player for your team based on team characteristics.
@@ -120,4 +122,15 @@ The Player Scouting Recommendation System has some limitations that are importan
 The Player Scouting Recommendation System has been developed exclusively for demonstrative and educational purposes. This system was created as part of a project for the *Information Retrieval Systems* examination at the **University of Naples, Federico II**. It is essential to note that the recommendation system presented here is designed as a decision support tool and does not intend to replace any Football Scout or coach. It is a conceptual idea. I would like to express our gratitude to the open-source community for the invaluable tools and libraries that made this project possible. Special thanks to **FBRef** for providing comprehensive football data.
 
 👨‍💻 This project was developed by **Antonio Romano** and is available on the [GitHub page](https://github.com/LaErre9?tab=repositories).
+
+## 📜 License
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
