@@ -9,16 +9,14 @@ The **Player Scouting Recommendation System** is a tool designed and engineered 
 
 This project leverages cutting-edge research in Generative AI, recommender systems, and sports analytics. If you use this project for your research, please cite [this paper](https://ieeexplore.ieee.org/abstract/document/10825692/metrics#metrics) 🙏.
 ```bash
-@INPROCEEDINGS{10825692,
-      author={Rinaldi, Antonio Maria and Romano, Antonio and Russo, Cristiano and Tommasino, Cristian},
-      booktitle={2024 IEEE International Conference on Big Data (BigData)}, 
-      title={FPSRec: Football Players Scouting Recommendation System based on Generative AI}, 
-      year={2024},
-      volume={},
-      number={},
-      pages={7141-7150},
-      keywords={Generative AI;Machine learning;Big Data;Data models;Surges;Recommender systems;Sports;Recruitment;Recommendation Systems;Player Scouting;Generative AI;Football Analytics;Sports Analytics;Data-driven Scouting},
-      doi={10.1109/BigData62323.2024.10825692}}
+@inproceedings{rinaldi2024fpsrec,
+  title={FPSRec: Football Players Scouting Recommendation System based on Generative AI},
+  author={Rinaldi, Antonio Maria and Romano, Antonio and Russo, Cristiano and Tommasino, Cristian},
+  booktitle={2024 IEEE International Conference on Big Data (BigData)},
+  pages={7141--7150},
+  year={2024},
+  organization={IEEE}
+}
 ```
 
 
